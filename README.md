@@ -1,5 +1,5 @@
 # DEVCam_a_camera_web_app
-A instant camera web app.
+An instant camera web app.
 # Mobile (and Desktop) Camera App Template (HTML, CSS, JS and WebRTC)
 
 Release 17-05-2020: Replaced DetectRTC with own code to solve a bug on iOS 13.4.1
